@@ -3,4 +3,3 @@
 
 ## 目录
 ### 1. markdown基本语法
-      [语法](https://github.com/ZhipengYang0605/front-end-study/issues/1)
